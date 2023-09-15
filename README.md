@@ -54,6 +54,6 @@ Generado desde [JSON Crack](https://jsoncrack.com/editor) con `diagrama.json`.
 - Elliot Hernánedez
 - Marianne Teixido
 - Hernani Villaseñor
-- Jonathan Moret
+- Jonathan Moret.
 
 México, 2023.  
